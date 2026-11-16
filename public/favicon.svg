@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#30243C"/>
+  <circle cx="25.5" cy="36" r="12.5" fill="none" stroke="#C5A16A" stroke-width="2.6"/>
+  <circle cx="38.5" cy="36" r="12.5" fill="none" stroke="#D7A0A8" stroke-width="2.6"/>
+  <circle cx="32" cy="12.5" r="3" fill="#D99538"/>
+  <text x="32" y="24" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" font-style="italic" fill="#F7EFE7" letter-spacing="1">K&amp;S</text>
+</svg>
