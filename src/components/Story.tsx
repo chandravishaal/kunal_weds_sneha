@@ -6,7 +6,7 @@ import MeetCouple from "@/components/scenes/MeetCouple";
 import Countdown from "@/components/scenes/Countdown";
 import Timeline from "@/components/scenes/Timeline";
 import BaraatRoute from "@/components/scenes/BaraatRoute";
-import Destination from "@/components/scenes/Destination";
+// import Destination from "@/components/scenes/Destination";
 import CalendarCard from "@/components/scenes/CalendarCard";
 import FinalReveal from "@/components/scenes/FinalReveal";
 
@@ -67,7 +67,7 @@ export default function Story({ revealed }: { revealed: boolean }) {
       <Marquee />
       <Timeline />
       <BaraatRoute />
-      <Destination />
+      {/* <Destination /> */}
       <CalendarCard />
       <FinalReveal />
     </main>

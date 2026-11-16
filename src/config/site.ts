@@ -17,7 +17,7 @@ export const SITE = {
       'https://www.google.com/maps/search/?api=1&query=Jharkhand%20Police%20Club%2C%20Line%20Tank%20Road%2C%20Ranchi%2C%20Jharkhand',
   },
   baraat: {
-    start: 'Hesmi More, Mandar',
+    start: 'Our Venue in Mandar',
     destination: 'Jharkhand Police Club, Line Tank Road, Ranchi',
   },
   whatsapp: {

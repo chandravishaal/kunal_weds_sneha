@@ -6,7 +6,7 @@ import mehendi from "@/assets/scenes/mehendi.webp";
 import kalyani from "@/assets/scenes/kalyani.webp";
 import baraat from "@/assets/scenes/baraat.webp";
 import journey from "@/assets/scenes/journey.webp";
-import floralBed from "@/assets/decor/floral-bed.webp";
+// import floralBed from "@/assets/decor/floral-bed.webp";
 
 const IMAGES: Record<string, { src: string; alt: string; pos?: string }> = {
   tilak: { src: tilak, alt: "Tilak ceremony with a decorated thali, marigolds and lanterns", pos: "object-[50%_28%]" },
@@ -113,13 +113,13 @@ export default function Timeline() {
         ))}
       </div>
 
-      <img
+      {/* <img
         src={floralBed}
         alt=""
         aria-hidden="true"
         loading="lazy"
         className="pointer-events-none absolute inset-x-0 bottom-0 z-0 w-full opacity-60 mix-blend-screen"
-      />
+      /> */}
     </section>
   );
 }

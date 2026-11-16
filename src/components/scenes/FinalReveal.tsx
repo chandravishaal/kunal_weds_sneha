@@ -1,6 +1,6 @@
 import finalImg from "@/assets/scenes/final.webp";
 import finalM from "@/assets/scenes/final_m.webp";
-import floralBed from "@/assets/decor/floral-bed.webp";
+// import floralBed from "@/assets/decor/floral-bed.webp";
 import Reveal from "@/components/Reveal";
 
 export default function FinalReveal() {
@@ -21,13 +21,13 @@ export default function FinalReveal() {
         />
       </picture>
       <div className="absolute inset-0 bg-gradient-to-b from-plum via-plum/55 to-plum" aria-hidden="true" />
-      <img
+      {/* <img
         src={floralBed}
         alt=""
         aria-hidden="true"
         loading="lazy"
         className="pointer-events-none absolute inset-x-0 bottom-0 z-[5] w-full opacity-90 mix-blend-screen"
-      />
+      /> */}
 
       <div className="relative z-10 mx-auto w-full max-w-3xl px-6 pb-32 pt-24 text-center sm:pb-16">
         <Reveal>
