@@ -820,7 +820,7 @@ export default function CurtainGate({ onOpened }: { onOpened: () => void }) {
             Kunal <span className="font-normal italic text-[#F4EBDD]">weds</span> Sneha
           </h1>
           <p className="mt-2 text-[10px] font-medium uppercase tracking-[0.38em] text-[#F4EBDD]/80 sm:text-xs">
-            A Royal November Celebration
+            Wedding Invitation
           </p>
         </div>
 
